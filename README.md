@@ -2,6 +2,8 @@
 
 * This project focuses on building a web application to display the most important 10 features with respect to, assessment for house price prediction project. This application can be improved by adding price prediction results.
 
+* Data pulled from this website: https://data.world/codefordc/dc-real-property-assessment-data
+
 * Here are our variables about houses in this data:
 
       * ssl
@@ -20,8 +22,6 @@
 
 
 * Data preprocessing was done.
-
-* Data pulled from this website: https://data.world/codefordc/dc-real-property-assessment-data
 
 * Three different regression models were used in the model development process:
 

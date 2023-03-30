@@ -17,7 +17,9 @@
       * use_code
     
       * 2014_assessment
-    
+
+
+* Data preprocessing was done by pulling from this website: https://data.world/codefordc/dc-real-property-assessment-data
 
 * Three different regression models were used in the model development process:
 

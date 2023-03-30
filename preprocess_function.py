@@ -8,6 +8,7 @@ Created on Thu Mar 30 01:58:37 2023
 
 # Libraries
 
+import sklearn
 from sklearn.compose import make_column_transformer
 from sklearn.preprocessing import OneHotEncoder
 

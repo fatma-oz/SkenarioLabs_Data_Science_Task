@@ -5,7 +5,7 @@ Created on Wed Mar 29 02:52:43 2023
 
 @author: kayttaja
 """
-!pip install sklearn
+pip install scikit-learn
 
 import sklearn
 import preprocess_function

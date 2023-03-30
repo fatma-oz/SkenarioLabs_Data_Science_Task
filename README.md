@@ -43,9 +43,9 @@
 
 * Update python version (all libraries need to install again)
 
-* Download Docker desktop
-
 * Model saving (joblib, pickle)
 
 * Model deployment (streamlit, flask , fastapi)
+
+* Download Docker desktop
 

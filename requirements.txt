@@ -6,4 +6,4 @@ numpy
 pickle
 XGBRegressor
 upgrade pip
-pip install -U  --upgrade pip
+pip-23.0.1

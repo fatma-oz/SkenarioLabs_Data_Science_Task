@@ -35,3 +35,17 @@
 * The model was tuned and the best parameters were determined using GridsearchCV.
 
 * In this data, there is only location data that we can use for our model. The value of a house is more than just location. Houses have several features that make up it's value. The more information we have about the properties of the houses, the more likely we are to make an accurate price estimation. By adding more features, higher accuracy can be achieved.
+
+
+## New Achievements
+
+* Update Macos version catalina to monterey
+
+* Update python version (all libraries need to install again)
+
+* Download Docker desktop
+
+* Model saving (joblib, pickle)
+
+* Model deployment (streamlit, flask , fastapi)
+

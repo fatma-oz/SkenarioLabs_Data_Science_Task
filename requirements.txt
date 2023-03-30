@@ -3,6 +3,5 @@ matplotlib
 seaborn
 pandas
 numpy
-pickle
 XGBRegressor
 pip == 23.0.1

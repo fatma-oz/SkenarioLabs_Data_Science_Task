@@ -5,9 +5,8 @@ Created on Wed Mar 29 02:52:43 2023
 
 @author: kayttaja
 """
-pip install scikit-learn
 
-import sklearn
+import scikit-learn
 import preprocess_function
 import streamlit as st
 import pickle

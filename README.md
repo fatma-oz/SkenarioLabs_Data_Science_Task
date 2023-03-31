@@ -51,5 +51,5 @@
 
 * Model deployment (streamlit, flask , fastapi)
 
-* Create streamlit docker app (dockerfile, docker image, docker container, docker-compose.yaml file)
+* BONUS Create streamlit docker app (dockerfile, docker image, docker container, docker-compose.yaml file)
 

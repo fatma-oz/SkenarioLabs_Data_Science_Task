@@ -2,9 +2,9 @@
 
 * This project focuses on building a web application to display the most important 10 features with respect to, assessment for house price prediction project. This application can be improved by adding price prediction results.
 
-* First, this project was deployed with streamlit and the application was created. As a bonus, the streamlit application was dockerized.
-
-* To run project ; 
+* First, this project was deployed with streamlit and the application was created. Streamlit application screenshot is in app · Streamlit.pdf file.
+ 
+* As a bonus, the streamlit application was dockerized. To run project ; 
 
      * install docker compose
 

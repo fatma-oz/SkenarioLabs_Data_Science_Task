@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 29 02:52:43 2023
-
-@author: kayttaja
-"""
-
 import sklearn
 import preprocess_function
 import streamlit as st

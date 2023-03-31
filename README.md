@@ -4,6 +4,14 @@
 
 * First, this project was deployed with streamlit and the application was created. As a bonus, the streamlit application was dockerized.
 
+* To run project ; 
+
+     * install docker compose
+
+     * run in the project root
+
+            docker compose up
+
 * Data pulled from this website: https://data.world/codefordc/dc-real-property-assessment-data
 
 * Here are our variables about houses in this data:

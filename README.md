@@ -2,6 +2,8 @@
 
 * This project focuses on building a web application to display the most important 10 features with respect to, assessment for house price prediction project. This application can be improved by adding price prediction results.
 
+* First, this project was deployed with streamlit and the application was created. As a bonus, the streamlit application was dockerized.
+
 * Data pulled from this website: https://data.world/codefordc/dc-real-property-assessment-data
 
 * Here are our variables about houses in this data:
@@ -21,7 +23,9 @@
       * 2014_assessment
 
 
-* Data preprocessing was done.
+* Data manipulation was done.
+
+* The manipulation operations on the notebook were turned into functions (preprocess_function)  and imported into the app.py file.
 
 * Three different regression models were used in the model development process:
 
@@ -29,12 +33,12 @@
     
       * DecisionTree Regression
     
-      * XGboost Regression (BEST Result)
+      * XGboost Regression (BEST Result) (r2 score)
 
 
 * The model was tuned and the best parameters were determined using GridsearchCV.
 
-* In this data, there is only location data that we can use for our model. The value of a house is more than just location. Houses have several features that make up it's value. The more information we have about the properties of the houses, the more likely we are to make an accurate price estimation. By adding more features, higher accuracy can be achieved.
+* In this data, there is only location data that we can use for our model (neighborhood, sub_neighborhood, use_code). The value of a house is more than just location. Houses have several features that make up it's value. The more information we have about the properties of the houses, the more likely we are to make an accurate price estimation. By adding more features, higher accuracy can be achieved.
 
 
 ## New Achievements
@@ -47,5 +51,5 @@
 
 * Model deployment (streamlit, flask , fastapi)
 
-* Download Docker desktop
+* Create streamlit docker app (dockerfile, docker image, docker container, docker-compose.yaml file)
 
